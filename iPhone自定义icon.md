@@ -1,10 +1,14 @@
 # 项目启动
+```
 flutter create .
 flutter pub get
+```
 
 # 安装iOS依赖
+```
 cd ios
 pod install
+```
 
 # 添加iPhone图标
 在 pubspec.yaml 中添加：
